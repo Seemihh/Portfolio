@@ -125,7 +125,7 @@ const About = () => {
     sr.reveal(revealContainer.current, srConfig());
   }, []);
 
-  const skills = ['JavaScript (ES6+)', 'TypeScript', 'React', 'Eleventy', 'Node.js', 'WordPress'];
+  const skills = ['Java', 'Kotlin', 'Flutter', 'Python', 'C++', 'IoT '];
 
   return (
     <StyledAboutSection id="about" ref={revealContainer}>
@@ -135,21 +135,25 @@ const About = () => {
         <StyledText>
           <div>
             <p>
-              Hello! My name is Brittany and I enjoy creating things that live on the internet. My
-              interest in web development started back in 2012 when I decided to try editing custom
-              Tumblr themes — turns out hacking together a custom reblog button taught me a lot
-              about HTML &amp; CSS!
+              Hello! My name is Semih, and I genuinely enjoy building scalable projects that live on
+              the internet and interact with the physical world. My interest in development first
+              sparked back in 2015 when I decided to attempt creating a basic Android applications.
+              Discovering the power of code to take an abstract idea and turn it into a tangible
+              tool that people use daily was a turning point for me. Since then, I've channeled this
+              passion into the mobile and backend ecosystem, increasingly focusing on Internet of
+              Things (IoT) systems that merge the physical and digital realms. My goal remains
+              consistent: to solve complex challenges by delivering reliable, user-centric solutions
+              built with clean and efficient code.
             </p>
 
             <p>
               Fast-forward to today, and I’ve had the privilege of working at{' '}
-              <a href="https://us.mullenlowe.com/">an advertising agency</a>,{' '}
-              <a href="https://starry.com/">a start-up</a>,{' '}
-              <a href="https://www.apple.com/">a huge corporation</a>, and{' '}
-              <a href="https://scout.camd.northeastern.edu/">a student-led design studio</a>. My
-              main focus these days is building accessible, inclusive products and digital
-              experiences at <a href="https://upstatement.com/">Upstatement</a> for a variety of
-              clients.
+              <a href="https://tavtechnologies.aero/">major international aviation corporation</a>,{' '}
+              a start-up{' '}
+              <a href="https://www.dijicrea.com/">a application development corporation</a>, and{' '}
+              <a href="https://www.westermo.com/">a growing technology venture</a>. My main focus
+              these days is developing my skills and deepening my expertise across the full spectrum
+              of application development.
             </p>
 
             <p>
