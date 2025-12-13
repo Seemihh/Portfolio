@@ -1,7 +1,7 @@
 ---
 date: '2'
 title: 'KronikIzlem'
-cover: './KronikIzlem.png'
+cover: './images/SpotifyProfile.png'
 github: 'https://github.com/Seemihh/KronikIzlem'
 external: 'https://www.kronikizlem.com/'
 tech:
