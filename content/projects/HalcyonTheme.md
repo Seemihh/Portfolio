@@ -1,15 +1,15 @@
 ---
-date: '2017-12-27'
-title: 'Halcyon Theme'
-github: 'https://github.com/bchiang7/halcyon-site'
-external: 'https://halcyon-theme.netlify.com/'
+date: '1'
+title: 'Royal Mind App'
+cover: './RoyalMind.png'
+github: 'https://github.com/Seemihh/RoyalMind'
+external: 'https://royalmindapp.com//'
 tech:
   - VS Code
-  - Sublime Text
-  - Atom
-  - iTerm2
-  - Hyper
-showInProjects: false
+  - Laravel
+  - Flutter
+  - AWS
+  - PostgreSQL
 ---
 
-A minimal, dark blue theme for VS Code, Sublime Text, Atom, iTerm, and more. Available on [Visual Studio Marketplace](https://marketplace.visualstudio.com/items?itemName=brittanychiang.halcyon-vscode), [Package Control](https://packagecontrol.io/packages/Halcyon%20Theme), [Atom Package Manager](https://atom.io/themes/halcyon-syntax), and [npm](https://www.npmjs.com/package/hyper-halcyon-theme).
+RoyalMind is a mobile application serving as a personal development platform. Its primary function is to allow users to access and consume content, such as wellness and motivational stories, through two simultaneous formats: written text and synchronized audio playback.
