@@ -4,7 +4,8 @@ title: 'Royal Mind App'
 cover: './RoyalMind.png'
 github: 'https://github.com/Seemihh/RoyalMind'
 external: 'https://royalmindapp.com//'
-tech: -VS Code
+tech:
+  - VS Code
   - Laravel
   - Flutter
   - AWS
