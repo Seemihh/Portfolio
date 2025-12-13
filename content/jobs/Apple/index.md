@@ -1,13 +1,16 @@
 ---
-date: '2017-12-21'
-title: 'UI Engineer Co-op'
-company: 'Apple'
-location: 'Cupertino, CA'
-range: 'July - December 2017'
-url: 'https://www.apple.com/music/'
+date: '2024-09-20'
+title: 'Team Lead'
+company: 'Wastermo'
+location: 'Västerås, SW'
+range: 'September 2024 - January 2025'
+url: 'https://www.westermo.com/'
 ---
 
-- Developed and styled interactive web applications for Apple Music using Ember and SCSS
-- Built and shipped the Apple Music Extension for Facebook Messenger leveraging third-party and internal API integrations
-- Architected and implemented the user interface of Apple Music's embeddable web player widget for in-browser user authorization and full song playback
-- Contributed extensively to the creation of MusicKit JS, a public-facing JavaScript SDK for embedding Apple Music players into web applications
+-Led a seven-person cross-functional team in developing an Anomaly Detection ML project for Wastermo, collaborating closely with Mälardalen University.
+
+-Drove the successful implementation of the solution, which utilized live and large-scale datasets for predictive modeling.
+
+-Demonstrated high adaptability and technical versatility by rotating responsibilities across the stack: contributing to the ML model pipeline, assisting with Front-end integration, and managing data pre-processing tasks.
+
+-Ensured project standardization and deployment by integrating Docker for containerization, facilitating seamless development and testing across team environments.

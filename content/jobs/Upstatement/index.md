@@ -1,13 +1,16 @@
 ---
-date: '2018-05-14'
-title: 'Lead Engineer'
-company: 'Upstatement'
-location: 'Boston, MA'
-range: 'May 2018 - Present'
-url: 'https://www.upstatement.com/'
+date: '2024-06-21'
+title: 'Back-End Engineer Intern'
+company: 'TAV Airport'
+location: 'Istanbul, TR'
+range: 'June 2024 - September 2024'
+url: 'https://tavtechnologies.aero/'
 ---
 
-- Deliver high-quality, robust production code for a diverse array of projects for clients including Harvard Business School, Everytown for Gun Safety, Pratt Institute, Koala Health, Vanderbilt University, The 19th News, and more
-- Work alongside creative directors to lead the research, development, and architecture of technical solutions to fulfill business requirements
-- Collaborate with designers, project managers, and other engineers to transform creative concepts into production realities for clients and stakeholders
-- Provide leadership within engineering department through close collaboration, knowledge shares, and mentorship
+-Delivered operational reliability by assisting with the maintenance and optimization of core airport Back-end systems, critical for ensuring continuous service in a high-stakes, large-scale environment.
+
+-Gained hands-on expertise in enterprise development by contributing to services built on the Java and Spring Boot ecosystem.
+
+-Developed practical cloud integration skills by working with AWS services (using Boto) to assist with large-scale data storage and management solutions.
+
+-Collaborated cross-functionally with senior engineers to diagnose system issues, contributing to effective troubleshooting and timely resolution of software and database challenges.

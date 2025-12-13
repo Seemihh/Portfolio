@@ -1,12 +1,15 @@
 ---
-date: '2015-12-21'
-title: 'Creative Technologist Co-op'
-company: 'MullenLowe'
-location: 'Boston, MA'
-range: 'July - December 2015'
-url: 'https://us.mullenlowe.com/'
+date: '2025-10-12'
+title: 'Founder'
+company: 'SerySolution'
+location: 'Istanbul, TR'
+range: 'October - current'
 ---
 
-- Developed, maintained, and shipped production code for client websites primarily using HTML, CSS, Sass, JavaScript, and jQuery
-- Performed quality assurance tests on various sites to ensure cross-browser compatibility and mobile responsiveness
-- Clients included JetBlue, Lovesac, U.S. Cellular, U.S. Department of Defense, and more
+-Founder and Lead Developer of SerySolution, an emerging technology venture focused on bridging the gap between digital services and the physical world.
+
+-Currently driving R&D and product development in its foundational stages, with a core focus on Application Development and Internet of Things (IoT) solutions.
+
+-Specializing in physical computing, designing and prototyping connected solutions using microcontrollers like Raspberry Pi and Arduino to create robust, real-world data collection and automation systems.
+
+-Leveraging full-stack skills to define and implement both mobile/web front-ends and scalable cloud-based backends for connected device management.

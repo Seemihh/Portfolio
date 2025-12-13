@@ -1,12 +1,16 @@
 ---
-date: '2016-12-21'
-title: 'Software Engineer Co-op'
-company: 'Starry'
-location: 'Boston, MA'
-range: 'July - December 2016'
-url: 'https://starry.com/'
+date: '2015-06-23'
+title: 'Application Developer Intern'
+company: 'DijiCrea'
+location: 'Istanbul, TR'
+range: 'July - September 2025'
+url: 'https://www.dijicrea.com/'
 ---
 
-- Engineered and improved major features of Starry's customer-facing Android web app using ES6, Handlebars, Backbone, Marionette, and CSS
-- Proposed and implemented scalable solutions to issues identified with cloud services and applications responsible for communicating with the Starry Station internet router
-- Collaborated with designers and other developers to ensure thoughtful and consistent user experiences across Starry’s iOS and Android mobile apps
+-Contributed to the full application lifecycle by developing and testing user-centric features for various digital projects within an agile studio environment.
+
+-Gained specialized mobile development experience by actively contributing to native Android solutions using Kotlin and cross-platform applications leveraging Flutter.
+
+-Bridged the gap between Front-end and Back-end by implementing and managing core application APIs built with the Laravel PHP framework, ensuring seamless data flow and service functionality.
+
+-Collaborated closely with designers and project managers to translate creative concepts and business requirements into deployable, high-quality code.
