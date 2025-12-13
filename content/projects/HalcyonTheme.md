@@ -1,7 +1,7 @@
 ---
 date: '1'
 title: 'Royal Mind App'
-cover: './RoyalMind.png'
+cover: ./RoyalMind.png
 github: 'https://github.com/Seemihh/RoyalMind'
 external: 'https://royalmindapp.com//'
 tech:
