@@ -1,16 +1,16 @@
 ---
-date: '2015-06-23'
-title: 'Application Developer Intern'
-company: 'DijiCrea'
+date: '2024-06-21'
+title: 'Back-End Engineer Intern'
+company: 'TAV Airport'
 location: 'Istanbul, TR'
-range: 'July - September 2025'
-url: 'https://www.dijicrea.com/'
+range: 'June 2024 - September 2024'
+url: 'https://tavtechnologies.aero/'
 ---
 
--Contributed to the full application lifecycle by developing and testing user-centric features for various digital projects within an agile studio environment.
+-Delivered operational reliability by assisting with the maintenance and optimization of core airport Back-end systems, critical for ensuring continuous service in a high-stakes, large-scale environment.
 
--Gained specialized mobile development experience by actively contributing to native Android solutions using Kotlin and cross-platform applications leveraging Flutter.
+-Gained hands-on expertise in enterprise development by contributing to services built on the Java and Spring Boot ecosystem.
 
--Bridged the gap between Front-end and Back-end by implementing and managing core application APIs built with the Laravel PHP framework, ensuring seamless data flow and service functionality.
+-Developed practical cloud integration skills by working with AWS services (using Boto) to assist with large-scale data storage and management solutions.
 
--Collaborated closely with designers and project managers to translate creative concepts and business requirements into deployable, high-quality code.
+-Collaborated cross-functionally with senior engineers to diagnose system issues, contributing to effective troubleshooting and timely resolution of software and database challenges.

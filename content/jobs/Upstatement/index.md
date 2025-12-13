@@ -1,16 +1,16 @@
 ---
-date: '2024-06-21'
-title: 'Back-End Engineer Intern'
-company: 'TAV Airport'
-location: 'Istanbul, TR'
-range: 'June 2024 - September 2024'
-url: 'https://tavtechnologies.aero/'
+date: '2024-09-20'
+title: 'Team Lead'
+company: 'Wastermo'
+location: 'Västerås, SW'
+range: 'September 2024 - January 2025'
+url: 'https://www.westermo.com/'
 ---
 
--Delivered operational reliability by assisting with the maintenance and optimization of core airport Back-end systems, critical for ensuring continuous service in a high-stakes, large-scale environment.
+-Led a seven-person cross-functional team in developing an Anomaly Detection ML project for Wastermo, collaborating closely with Mälardalen University.
 
--Gained hands-on expertise in enterprise development by contributing to services built on the Java and Spring Boot ecosystem.
+-Drove the successful implementation of the solution, which utilized live and large-scale datasets for predictive modeling.
 
--Developed practical cloud integration skills by working with AWS services (using Boto) to assist with large-scale data storage and management solutions.
+-Demonstrated high adaptability and technical versatility by rotating responsibilities across the stack: contributing to the ML model pipeline, assisting with Front-end integration, and managing data pre-processing tasks.
 
--Collaborated cross-functionally with senior engineers to diagnose system issues, contributing to effective troubleshooting and timely resolution of software and database challenges.
+-Ensured project standardization and deployment by integrating Docker for containerization, facilitating seamless development and testing across team environments.
